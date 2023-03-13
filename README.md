@@ -3,7 +3,7 @@
 
 # Can be installed in any linux system or in termux
 
-     <marquee><h1>ABBAKAR MR_EO</h1></marquee>
+                 <h1>ABBAKAR MR_EO</h1>
 
 <centre><h2>Tool was Developed by</h2></centre>
 # MR EO && MR_ROBOT NG HACKER
