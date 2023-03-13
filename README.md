@@ -26,16 +26,16 @@ bash Arewa-phishing.sh
 
 **Open terminal and run**
 ```shell script
-pkg update && pkg upgrade
+apt update && apt upgrade
 ```
 ```shell script
-pkg install python
+apt install python
 ```
 ```shell script
-pkg install python2
+apt install python2
 ```
 ```shell script
-pkg install git
+apt install git
 ```
 ```shell script
 pip install requests
